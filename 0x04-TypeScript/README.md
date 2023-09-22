@@ -1,1 +1,1 @@
-cript
+# Typescript 👩‍💻
